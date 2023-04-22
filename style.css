@@ -1,0 +1,29 @@
+.heading {
+    width: 100%;
+    margin: 0;
+    box-shadow: 3px 3px 3px yellow;
+    font-weight: 900;
+}
+label {
+    font-weight: 900;
+    color: black;
+}
+.copy_right {
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    background-color: red;
+    line-height: 3;
+    color: white;
+    font-weight: 900;
+}
+.song_name{
+    font-size: 20px;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
