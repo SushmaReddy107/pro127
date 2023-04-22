@@ -2,12 +2,11 @@ song1 ="";
 song2 ="";
 
 function setup(){
-    canvas = createCanvas(600,400);
-    canvas.center();
-    canvas.position(380 , 150)
+    canvas =  createCanvas(600, 530);
+	canvas.center();
 
-    video = createCapture(VIDEO);
-    video.hide();
+	video = createCapture(VIDEO);
+	video.hide();
 }
 
 function preload(){
